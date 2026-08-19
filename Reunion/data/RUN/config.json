@@ -1,0 +1,21 @@
+{
+    "code": "RUN",
+    "name": "La Reunion",
+    "bbox": [
+        55.0,
+        -21.6,
+        56.05,
+        -20.65
+    ],
+    "description": "Map of the entire island of La Reunion, from Saint-Denis and Roland Garros airport to Le Port, La Possession and Saint-Paul.",
+    "population": 307056,
+    "initialViewState": {
+        "latitude": -20.8722,
+        "longitude": 55.4477,
+        "zoom": 12,
+        "bearing": 0
+    },
+    "creator": "pierreggt",
+    "version": "1.0.0",
+    "country": "FR"
+}

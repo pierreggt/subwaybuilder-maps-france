@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-08-19",
+      "changelog": "Initial release.",
+      "download": "https://github.com/pierreggt/subwaybuilder-maps-france/releases/download/run-v1.0.0/reunion_v1.0.0.zip",
+      "sha256": "d2d32b14d4a9e7debfbfad1fda654e48ff407ffdbe36a917e6f713c936163823"
+    }
+  ]
+}

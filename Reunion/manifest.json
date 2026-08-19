@@ -1,0 +1,9 @@
+{
+    "id": "com.pierreggt.reunion",
+    "name": "La Reunion",
+    "description": "Map of the entire island of La Reunion, from Saint-Denis and Roland Garros airport to Le Port, La Possession and Saint-Paul. INSEE Filosofi + MOBPRO demand data.",
+    "version": "1.0.0",
+    "author": { "name": "pierreggt" },
+    "main": "index.js",
+    "dependencies": { "subway-builder": ">=1.0.0" }
+}
