@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-08-21",
+      "changelog": "Initial release.",
+      "download": "https://github.com/pierreggt/subwaybuilder-maps-france/releases/download/lha-v1.0.0/lehavre_v1.0.0.zip",
+      "sha256": "e2d78f5bb1fb4eaeec643fd2c4b98c6e378d607c65e6d8c7a162d9299aeec4f5"
+    }
+  ]
+}
