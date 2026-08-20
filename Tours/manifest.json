@@ -1,0 +1,13 @@
+{
+    "id": "com.pierreggt.tours",
+    "name": "Tours",
+    "description": "Map of the Tours metropolitan area, France, with its tramway network, Tours-Val de Loire airport, Universite de Tours and CHRU Tours.",
+    "version": "1.0.0",
+    "author": {
+        "name": "pierreggt"
+    },
+    "main": "index.js",
+    "dependencies": {
+        "subway-builder": ">=1.0.0"
+    }
+}

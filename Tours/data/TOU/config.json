@@ -1,0 +1,21 @@
+{
+    "code": "TOU",
+    "name": "Tours",
+    "bbox": [
+        0.45,
+        47.25,
+        0.8,
+        47.52
+    ],
+    "description": "Map of the Tours metropolitan area, with its tramway network, Tours-Val de Loire airport, Universite de Tours and CHRU Tours.",
+    "population": 188817,
+    "initialViewState": {
+        "latitude": 47.3941,
+        "longitude": 0.6848,
+        "zoom": 12,
+        "bearing": 0
+    },
+    "creator": "pierreggt",
+    "version": "1.0.0",
+    "country": "FR"
+}
