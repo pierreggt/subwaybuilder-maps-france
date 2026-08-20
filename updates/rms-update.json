@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-08-21",
+      "changelog": "Initial release.",
+      "download": "https://github.com/pierreggt/subwaybuilder-maps-france/releases/download/rms-v1.0.0/reims_v1.0.0.zip",
+      "sha256": "803b34d2410785ae8f5bb99f6e3f32ac188ea0c7e6c10e575f329ac2ebd019dc"
+    }
+  ]
+}
