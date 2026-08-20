@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-08-21",
+      "changelog": "Initial release.",
+      "download": "https://github.com/pierreggt/subwaybuilder-maps-france/releases/download/ang-v1.0.0/angers_v1.0.0.zip",
+      "sha256": "58891bb99fb57e5112e654583e6a23d4af69a998177ba6ac0c39bfa6dd537f86"
+    }
+  ]
+}
