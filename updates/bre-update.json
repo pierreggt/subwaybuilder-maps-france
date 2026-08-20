@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-08-21",
+      "changelog": "Initial release.",
+      "download": "https://github.com/pierreggt/subwaybuilder-maps-france/releases/download/bre-v1.0.0/brest_v1.0.0.zip",
+      "sha256": "e643d52daf262a7fcc6fe07de7aeea4318343d7440c3b621c43dd5ff0061f0ad"
+    }
+  ]
+}
