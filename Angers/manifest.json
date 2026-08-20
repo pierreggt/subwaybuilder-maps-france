@@ -1,0 +1,13 @@
+{
+    "id": "com.pierreggt.angers",
+    "name": "Angers",
+    "description": "Map of the Angers metropolitan area, France, with its tramway network, Universite d Angers and CHU Angers.",
+    "version": "1.0.0",
+    "author": {
+        "name": "pierreggt"
+    },
+    "main": "index.js",
+    "dependencies": {
+        "subway-builder": ">=1.0.0"
+    }
+}
