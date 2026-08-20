@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-08-21",
+      "changelog": "Initial release.",
+      "download": "https://github.com/pierreggt/subwaybuilder-maps-france/releases/download/lem-v1.0.0/lemans_v1.0.0.zip",
+      "sha256": "650529d4d197a3ede3554267d6901ba1183ac75ff37f05ebdad3f35cf8864476"
+    }
+  ]
+}
