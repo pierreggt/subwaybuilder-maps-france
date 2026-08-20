@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-08-21",
+      "changelog": "Initial release.",
+      "download": "https://github.com/pierreggt/subwaybuilder-maps-france/releases/download/bes-v1.0.0/besancon_v1.0.0.zip",
+      "sha256": "703eedee7c2c3118125ef25dcd818d532c9d8430ee598e43928a40cfc7f2b2ed"
+    }
+  ]
+}
