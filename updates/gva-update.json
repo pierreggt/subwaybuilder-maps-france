@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-08-21",
+      "changelog": "Initial release.",
+      "download": "https://github.com/pierreggt/subwaybuilder-maps-france/releases/download/gva-v1.0.0/grandgeneve_v1.0.0.zip",
+      "sha256": "89b25617cfd7184df2c774d310c30ab040d3f5e502133d64bf34b12ae5e33919"
+    }
+  ]
+}
