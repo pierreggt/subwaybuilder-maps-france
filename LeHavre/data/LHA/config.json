@@ -1,0 +1,21 @@
+{
+    "code": "LHA",
+    "name": "Le Havre",
+    "bbox": [
+        -0.45,
+        49.42,
+        0.3,
+        49.65
+    ],
+    "description": "Map of the Le Havre metropolitan area, with its tramway network, Universite Le Havre Normandie and the Groupe Hospitalier du Havre.",
+    "population": 117868,
+    "initialViewState": {
+        "latitude": 49.4944,
+        "longitude": 0.1079,
+        "zoom": 12,
+        "bearing": 0
+    },
+    "creator": "pierreggt",
+    "version": "1.0.0",
+    "country": "FR"
+}
