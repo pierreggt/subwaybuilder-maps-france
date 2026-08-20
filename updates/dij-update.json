@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-08-21",
+      "changelog": "Initial release.",
+      "download": "https://github.com/pierreggt/subwaybuilder-maps-france/releases/download/dij-v1.0.0/dijon_v1.0.0.zip",
+      "sha256": "9a55254a28b0d2956fbd61ce11ae97884022f70d90a9f12a3db6eab163583533"
+    }
+  ]
+}
