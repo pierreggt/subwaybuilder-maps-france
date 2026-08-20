@@ -1,0 +1,21 @@
+{
+    "code": "AVI",
+    "name": "Avignon",
+    "bbox": [
+        4.62,
+        43.78,
+        5.14,
+        44.12
+    ],
+    "description": "Map of the Avignon metropolitan area, with Avignon Universite, the Centre Hospitalier and the historic Palais des Papes.",
+    "population": 224306,
+    "initialViewState": {
+        "latitude": 43.9493,
+        "longitude": 4.8059,
+        "zoom": 12,
+        "bearing": 0
+    },
+    "creator": "pierreggt",
+    "version": "1.0.0",
+    "country": "FR"
+}
