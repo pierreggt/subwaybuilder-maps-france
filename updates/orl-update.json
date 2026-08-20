@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-08-21",
+      "changelog": "Initial release.",
+      "download": "https://github.com/pierreggt/subwaybuilder-maps-france/releases/download/orl-v1.0.0/orleans_v1.0.0.zip",
+      "sha256": "42102ef6542a5b967601d3b7b3ddb590574b1a5251d16f1b5f32305fb597bb92"
+    }
+  ]
+}
