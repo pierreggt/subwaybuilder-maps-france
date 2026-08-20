@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-08-21",
+      "changelog": "Initial release.",
+      "download": "https://github.com/pierreggt/subwaybuilder-maps-france/releases/download/cfe-v1.0.0/clermont-ferrand_v1.0.0.zip",
+      "sha256": "beafda917f37ffdb177db5c0fbb658a7855a9eb0b82fb312690c5a3471ee12d0"
+    }
+  ]
+}
