@@ -1,0 +1,13 @@
+{
+    "id": "com.pierreggt.reims",
+    "name": "Reims",
+    "description": "Map of the Reims metropolitan area, France, with its tramway network, Universite de Reims Champagne-Ardenne and CHU de Reims.",
+    "version": "1.0.0",
+    "author": {
+        "name": "pierreggt"
+    },
+    "main": "index.js",
+    "dependencies": {
+        "subway-builder": ">=1.0.0"
+    }
+}
