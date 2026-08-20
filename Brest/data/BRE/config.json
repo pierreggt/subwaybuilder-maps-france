@@ -1,0 +1,21 @@
+{
+    "code": "BRE",
+    "name": "Brest",
+    "bbox": [
+        -4.78,
+        48.23,
+        -4.22,
+        48.56
+    ],
+    "description": "Map of the Brest metropolitan area, with its tramway network, Universite de Bretagne Occidentale and CHRU Brest.",
+    "population": 171425,
+    "initialViewState": {
+        "latitude": 48.3904,
+        "longitude": -4.486,
+        "zoom": 12,
+        "bearing": 0
+    },
+    "creator": "pierreggt",
+    "version": "1.0.0",
+    "country": "FR"
+}
