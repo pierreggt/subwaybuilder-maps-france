@@ -1,0 +1,13 @@
+{
+    "id": "com.pierreggt.saintetienne",
+    "name": "Saint-Etienne",
+    "description": "Map of the Saint-Etienne metropolitan area, France, with its historic tramway network, Universite Jean Monnet and CHU de Saint-Etienne.",
+    "version": "1.0.0",
+    "author": {
+        "name": "pierreggt"
+    },
+    "main": "index.js",
+    "dependencies": {
+        "subway-builder": ">=1.0.0"
+    }
+}
