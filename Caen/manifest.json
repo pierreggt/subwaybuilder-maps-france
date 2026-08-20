@@ -1,0 +1,13 @@
+{
+    "id": "com.pierreggt.caen",
+    "name": "Caen",
+    "description": "Map of the Caen metropolitan area, France, with its tramway network, Universite de Caen Normandie and CHU de Caen Normandie.",
+    "version": "1.0.0",
+    "author": {
+        "name": "pierreggt"
+    },
+    "main": "index.js",
+    "dependencies": {
+        "subway-builder": ">=1.0.0"
+    }
+}
