@@ -1,0 +1,21 @@
+{
+    "code": "CAY",
+    "name": "Guyane",
+    "bbox": [
+        -54.15,
+        4.55,
+        -52.05,
+        5.75
+    ],
+    "description": "Map of French Guiana's developed coastal corridor, from Saint-Laurent-du-Maroni and Kourou (Guiana Space Centre) to Cayenne and its airport.",
+    "population": 83747,
+    "initialViewState": {
+        "latitude": 4.9346,
+        "longitude": -52.3364,
+        "zoom": 12,
+        "bearing": 0
+    },
+    "creator": "pierreggt",
+    "version": "1.0.0",
+    "country": "FR"
+}
