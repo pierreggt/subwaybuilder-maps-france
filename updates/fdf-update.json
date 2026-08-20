@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-08-21",
+      "changelog": "Initial release.",
+      "download": "https://github.com/pierreggt/subwaybuilder-maps-france/releases/download/fdf-v1.0.0/martinique_v1.0.0.zip",
+      "sha256": "21eb9723a35b311b6e82a50bc0fe9dabc91daabfcda0441e73d7d7de7e879736"
+    }
+  ]
+}
