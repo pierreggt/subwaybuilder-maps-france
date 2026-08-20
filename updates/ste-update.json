@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-08-21",
+      "changelog": "Initial release.",
+      "download": "https://github.com/pierreggt/subwaybuilder-maps-france/releases/download/ste-v1.0.0/saint-etienne_v1.0.0.zip",
+      "sha256": "8fb8188290b49a7227e194836961be66a0322cee80348e2cf814ebd393037880"
+    }
+  ]
+}
