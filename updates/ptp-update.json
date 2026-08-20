@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-08-21",
+      "changelog": "Initial release.",
+      "download": "https://github.com/pierreggt/subwaybuilder-maps-france/releases/download/ptp-v1.0.0/guadeloupe_v1.0.0.zip",
+      "sha256": "8d6022d8cb0b57b515255e7fa91db6e051ad20d31f7a53f21b84cd7b71d8f539"
+    }
+  ]
+}
