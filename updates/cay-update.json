@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-08-21",
+      "changelog": "Initial release.",
+      "download": "https://github.com/pierreggt/subwaybuilder-maps-france/releases/download/cay-v1.0.0/guyane_v1.0.0.zip",
+      "sha256": "8708bc9ac1a23a9f0f418deca3a2be69fd5d2ca42336eeb17dd31c0963ed0195"
+    }
+  ]
+}
