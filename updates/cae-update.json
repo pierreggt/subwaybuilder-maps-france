@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-08-21",
+      "changelog": "Initial release.",
+      "download": "https://github.com/pierreggt/subwaybuilder-maps-france/releases/download/cae-v1.0.0/caen_v1.0.0.zip",
+      "sha256": "3e6345e12fb646e0a4371b21663ef2c6c1055f0235c7b53eca7c2fd8fc02ff48"
+    }
+  ]
+}
