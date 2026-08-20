@@ -1,0 +1,13 @@
+{
+    "id": "com.pierreggt.clermontferrand",
+    "name": "Clermont-Ferrand",
+    "description": "Map of the Clermont-Ferrand metropolitan area, France, with its rubber-tired tramway, Universite Clermont Auvergne and CHU Clermont-Ferrand.",
+    "version": "1.0.0",
+    "author": {
+        "name": "pierreggt"
+    },
+    "main": "index.js",
+    "dependencies": {
+        "subway-builder": ">=1.0.0"
+    }
+}
