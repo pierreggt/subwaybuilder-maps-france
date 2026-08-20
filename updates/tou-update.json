@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-08-21",
+      "changelog": "Initial release.",
+      "download": "https://github.com/pierreggt/subwaybuilder-maps-france/releases/download/tou-v1.0.0/tours_v1.0.0.zip",
+      "sha256": "9e375652d37dc43fd5885b6df6090b2fe5a5c16a810f9a24c9501598c4112d81"
+    }
+  ]
+}
