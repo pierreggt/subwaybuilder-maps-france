@@ -1,0 +1,21 @@
+{
+    "code": "BSL",
+    "name": "Eurodistrict de Bale",
+    "bbox": [
+        7.1,
+        47.4,
+        7.9,
+        47.9
+    ],
+    "description": "Map of the trinational Basel Eurodistrict (Switzerland/France/Germany), with the EuroAirport Basel-Mulhouse-Freiburg, the Basel tram network and Mulhouse and Saint-Louis stations.",
+    "population": 864924,
+    "initialViewState": {
+        "latitude": 47.5596,
+        "longitude": 7.5886,
+        "zoom": 12,
+        "bearing": 0
+    },
+    "creator": "pierreggt",
+    "version": "1.0.0",
+    "country": "CH"
+}
