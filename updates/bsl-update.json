@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-08-21",
+      "changelog": "Initial release.",
+      "download": "https://github.com/pierreggt/subwaybuilder-maps-france/releases/download/bsl-v1.0.0/eurodistrictbale_v1.0.0.zip",
+      "sha256": "f026c70e8ea5ebe414faa8a94df09d40b4d151c4bc366a7674616ec0370a9463"
+    }
+  ]
+}
