@@ -1,0 +1,9 @@
+{
+    "id": "com.pierreggt.lyon",
+    "name": "Lyon - Vallee du Rhone & Alpes",
+    "description": "Map of Lyon, Grenoble, Saint-Etienne, Valence and Clermont-Ferrand, France, spanning the Rhone valley and the Alpine foothills.",
+    "version": "2.0.0",
+    "author": { "name": "pierreggt" },
+    "main": "index.js",
+    "dependencies": { "subway-builder": ">=1.0.0" }
+}

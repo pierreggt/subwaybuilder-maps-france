@@ -1,2 +1,4 @@
 ArcMediterraneen/*.pmtiles filter=lfs diff=lfs merge=lfs -text
 ArcMediterraneen/data/**/*.gz filter=lfs diff=lfs merge=lfs -text
+Lyon/*.pmtiles filter=lfs diff=lfs merge=lfs -text
+Lyon/data/**/*.gz filter=lfs diff=lfs merge=lfs -text

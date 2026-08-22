@@ -1,0 +1,13 @@
+{
+    "id": "com.pierreggt.marseille",
+    "name": "Marseille - Provence",
+    "description": "Map of Marseille, Toulon, Aix-en-Provence and Istres, from Marseille-Provence airport to the Calanques and the Toulon naval base.",
+    "version": "2.0.0",
+    "author": {
+        "name": "pierreggt"
+    },
+    "main": "index.js",
+    "dependencies": {
+        "subway-builder": ">=1.0.0"
+    }
+}
