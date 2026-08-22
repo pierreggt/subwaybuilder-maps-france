@@ -15,7 +15,7 @@
     });
 
     api.registerCity({
-        name: 'Paris',
+        name: 'Paris - Ile de France',
         code: 'PRS',
         description: t('description'),
         population: 6650825,
