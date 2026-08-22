@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "2.0.1",
+      "game_version": ">=1.0.0",
+      "date": "2026-08-22",
+      "changelog": "Migrated to the collective France repo. Full regional expansion (Lyon, Grenoble, Saint-Etienne, Valence, Clermont-Ferrand) with the walking-trip fix.",
+      "download": "https://github.com/pierreggt/subwaybuilder-maps-france/releases/download/lsy-v2.0.1/lyon_v2.0.1.zip",
+      "sha256": "d5d67c0f7e5cd151401ac5a1232dc0427f1586988bc33f14104cfa3c041e65f3"
+    }
+  ]
+}

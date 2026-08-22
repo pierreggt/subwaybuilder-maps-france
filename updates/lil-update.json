@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "2.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-08-22",
+      "changelog": "Migrated to the collective France repo.",
+      "download": "https://github.com/pierreggt/subwaybuilder-maps-france/releases/download/lil-v2.0.0/lille_v2.0.0.zip",
+      "sha256": "cac421abc37d01dec198dfee7178399e5f2a3302986012e1ed1cc0b55ec52c03"
+    }
+  ]
+}

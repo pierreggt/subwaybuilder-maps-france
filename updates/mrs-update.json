@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "2.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-08-22",
+      "changelog": "Migrated to the collective France repo. Full regional expansion (Marseille, Toulon, Aix-en-Provence, Istres).",
+      "download": "https://github.com/pierreggt/subwaybuilder-maps-france/releases/download/mrs-v2.0.0/marseille_v2.0.0.zip",
+      "sha256": "1c416a52a4d060c7896c9edee0d75f8d14547b7d0ad4afe324586760fdf36f08"
+    }
+  ]
+}

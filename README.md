@@ -21,6 +21,9 @@ Each `<code>-update.json` follows the registry's `schema_version: 1` update mani
 | City | Code | Update manifest |
 |---|---|---|
 | Angers | ANG | [updates/ang-update.json](updates/ang-update.json) |
+| Flandre & Hainaut (Lille) | LIL | [updates/lil-update.json](updates/lil-update.json) |
+| Lyon - Vallée du Rhône & Alpes | LSY | [updates/lsy-update.json](updates/lsy-update.json) |
+| Marseille - Provence | MRS | [updates/mrs-update.json](updates/mrs-update.json) |
 | Arc Méditerranéen (Narbonne, Béziers, Thau, Perpignan, Montpellier, Nîmes, Arles, Avignon) | NAR | [updates/nar-update.json](updates/nar-update.json) |
 | Besançon | BES | [updates/bes-update.json](updates/bes-update.json) |
 | Brest | BRE | [updates/bre-update.json](updates/bre-update.json) |
