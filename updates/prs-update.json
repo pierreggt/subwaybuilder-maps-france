@@ -7,7 +7,7 @@
       "date": "2026-08-22",
       "changelog": "Major rebuild: full RER/Transilien network extent, real INSEE SIRENE job placement.",
       "download": "https://github.com/pierreggt/subwaybuilder-maps-france/releases/download/prs-v2.0.0/paris_v2.0.0.zip",
-      "sha256": "1d75589bcbf47c5aea2a69f7a937069d2feced0f4c531f44eead26560c23db5f"
+      "sha256": "086c3406929ffcc97fcc40410cb8de1dc05eb12c2a052377b13e8c73ddbe3418"
     }
   ]
 }
