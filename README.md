@@ -51,5 +51,6 @@ Each `<code>-update.json` follows the registry's `schema_version: 1` update mani
 | Pays Basque | PYB | [updates/pyb-update.json](updates/pyb-update.json) |
 | Reims | RMS | [updates/rms-update.json](updates/rms-update.json) |
 | Rouen | ROU | [updates/rou-update.json](updates/rou-update.json) |
+| Strasbourg | STR | [updates/str-update.json](updates/str-update.json) |
 | Tours | TOU | [updates/tou-update.json](updates/tou-update.json) |
 | Troyes | TRO | [updates/tro-update.json](updates/tro-update.json) |
