@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-08-22",
+      "changelog": "Initial release.",
+      "download": "https://github.com/pierreggt/subwaybuilder-maps-france/releases/download/pau-v1.0.0/pau_v1.0.0.zip",
+      "sha256": "1cad7a438b850c55c5758eece9038ec14e810ae0ba768c282baa1db4f9b062c3"
+    }
+  ]
+}

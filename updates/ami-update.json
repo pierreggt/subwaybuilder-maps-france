@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-08-22",
+      "changelog": "Initial release.",
+      "download": "https://github.com/pierreggt/subwaybuilder-maps-france/releases/download/ami-v1.0.0/amiens_v1.0.0.zip",
+      "sha256": "70cb9e5212fb417ddbedf3e4fcda2cf5166627a84fee43f3b985204d1af97989"
+    }
+  ]
+}

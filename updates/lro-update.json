@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-08-22",
+      "changelog": "Initial release.",
+      "download": "https://github.com/pierreggt/subwaybuilder-maps-france/releases/download/lro-v1.0.0/larochelle_v1.0.0.zip",
+      "sha256": "89a0040105c3d59f1c0c962fef9b2c26df6d38a9b876b5039c731b8f672f56e4"
+    }
+  ]
+}

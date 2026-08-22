@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-08-22",
+      "changelog": "Initial release.",
+      "download": "https://github.com/pierreggt/subwaybuilder-maps-france/releases/download/mnc-v1.0.0/metznancy_v1.0.0.zip",
+      "sha256": "3e833c97cce5194385832de42b152df245e3565a9f78d88a7318887b51c508a9"
+    }
+  ]
+}

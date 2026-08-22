@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-08-22",
+      "changelog": "Initial release.",
+      "download": "https://github.com/pierreggt/subwaybuilder-maps-france/releases/download/rou-v1.0.0/rouen_v1.0.0.zip",
+      "sha256": "a08ae8b0e6ed71c9f2a0a50f4160db8505a657f4c7646d8df63541000987e832"
+    }
+  ]
+}

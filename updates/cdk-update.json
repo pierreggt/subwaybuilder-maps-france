@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-08-22",
+      "changelog": "Initial release.",
+      "download": "https://github.com/pierreggt/subwaybuilder-maps-france/releases/download/cdk-v1.0.0/calaisdunkerque_v1.0.0.zip",
+      "sha256": "7a2e4bbfd1add7fb8895f094de0f5ee11e1d64efc8c7a3dd7bd50506b45993a2"
+    }
+  ]
+}

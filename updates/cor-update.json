@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-08-22",
+      "changelog": "Initial release.",
+      "download": "https://github.com/pierreggt/subwaybuilder-maps-france/releases/download/cor-v1.0.0/corse_v1.0.0.zip",
+      "sha256": "47dbda0fcf5beb914c5e7fd94773a5da36fbd0d83671226550a96b182bb19a0c"
+    }
+  ]
+}

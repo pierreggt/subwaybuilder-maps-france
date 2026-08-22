@@ -20,4 +20,29 @@ Each `<code>-update.json` follows the registry's `schema_version: 1` update mani
 
 | City | Code | Update manifest |
 |---|---|---|
+| Angers | ANG | [updates/ang-update.json](updates/ang-update.json) |
+| Arc Méditerranéen (Narbonne, Béziers, Thau, Perpignan, Montpellier, Nîmes, Arles, Avignon) | NAR | [updates/nar-update.json](updates/nar-update.json) |
+| Besançon | BES | [updates/bes-update.json](updates/bes-update.json) |
+| Brest | BRE | [updates/bre-update.json](updates/bre-update.json) |
+| Caen | CAE | [updates/cae-update.json](updates/cae-update.json) |
+| Calais-Dunkerque | CDK | [updates/cdk-update.json](updates/cdk-update.json) |
+| Corse | COR | [updates/cor-update.json](updates/cor-update.json) |
+| Dijon | DIJ | [updates/dij-update.json](updates/dij-update.json) |
+| Eurodistrict Bâle | BSL | [updates/bsl-update.json](updates/bsl-update.json) |
+| Grand Genève | GVA | [updates/gva-update.json](updates/gva-update.json) |
+| Guadeloupe | PTP | [updates/ptp-update.json](updates/ptp-update.json) |
+| Guyane | CAY | [updates/cay-update.json](updates/cay-update.json) |
+| La Rochelle | LRO | [updates/lro-update.json](updates/lro-update.json) |
 | La Réunion | RUN | [updates/run-update.json](updates/run-update.json) |
+| Le Havre | LHA | [updates/lha-update.json](updates/lha-update.json) |
+| Le Mans | LEM | [updates/lem-update.json](updates/lem-update.json) |
+| Limoges | LIM | [updates/lim-update.json](updates/lim-update.json) |
+| Martinique | FDF | [updates/fdf-update.json](updates/fdf-update.json) |
+| Metz-Nancy | MNC | [updates/mnc-update.json](updates/mnc-update.json) |
+| Orléans | ORL | [updates/orl-update.json](updates/orl-update.json) |
+| Pau | PAU | [updates/pau-update.json](updates/pau-update.json) |
+| Pays Basque | PYB | [updates/pyb-update.json](updates/pyb-update.json) |
+| Reims | RMS | [updates/rms-update.json](updates/rms-update.json) |
+| Rouen | ROU | [updates/rou-update.json](updates/rou-update.json) |
+| Tours | TOU | [updates/tou-update.json](updates/tou-update.json) |
+| Troyes | TRO | [updates/tro-update.json](updates/tro-update.json) |

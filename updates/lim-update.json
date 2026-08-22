@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-08-22",
+      "changelog": "Initial release.",
+      "download": "https://github.com/pierreggt/subwaybuilder-maps-france/releases/download/lim-v1.0.0/limoges_v1.0.0.zip",
+      "sha256": "4fb70b014cd49536264328e4663c58e453c2aa5b7da4ac90119609febe775d7d"
+    }
+  ]
+}

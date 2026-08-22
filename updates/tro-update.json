@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-08-22",
+      "changelog": "Initial release.",
+      "download": "https://github.com/pierreggt/subwaybuilder-maps-france/releases/download/tro-v1.0.0/troyes_v1.0.0.zip",
+      "sha256": "0e6532059ab2f04ccceb547c2e29c3e26b1cae856d98f7f2b1ab6a3c089b6c5c"
+    }
+  ]
+}

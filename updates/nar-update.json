@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-08-22",
+      "changelog": "Initial release.",
+      "download": "https://github.com/pierreggt/subwaybuilder-maps-france/releases/download/nar-v1.0.0/arcmediterraneen_v1.0.0.zip",
+      "sha256": "d8b75092195dfa8df9ae35041ae7d9a76dc6b540eab403f7524a4a9ccd8b9535"
+    }
+  ]
+}
