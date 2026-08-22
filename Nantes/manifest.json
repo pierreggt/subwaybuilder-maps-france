@@ -1,0 +1,9 @@
+{
+    "id": "com.pierreggt.nantes",
+    "name": "Nantes",
+    "description": "Map of the Nantes metropolitan area, from Nantes Atlantique airport to Saint-Herblain and Vertou.",
+    "version": "1.0.0",
+    "author": { "name": "pierreggt" },
+    "main": "index.js",
+    "dependencies": { "subway-builder": ">=1.0.0" }
+}

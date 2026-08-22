@@ -1,0 +1,21 @@
+{
+    "code": "NTE",
+    "name": "Nantes",
+    "bbox": [
+        -1.8,
+        47.08,
+        -1.35,
+        47.33
+    ],
+    "description": "Map of the Nantes metropolitan area, from Nantes Atlantique airport to Saint-Herblain and Vertou.",
+    "population": 447121,
+    "initialViewState": {
+        "latitude": 47.2184,
+        "longitude": -1.5536,
+        "zoom": 12,
+        "bearing": 0
+    },
+    "creator": "pierreggt",
+    "version": "1.0.1",
+    "country": "FR"
+}

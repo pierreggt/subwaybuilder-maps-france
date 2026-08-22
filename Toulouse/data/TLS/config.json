@@ -1,0 +1,21 @@
+{
+    "code": "TLS",
+    "name": "Toulouse",
+    "bbox": [
+        1.26,
+        43.43,
+        1.54,
+        43.7
+    ],
+    "description": "Map of the Toulouse metropolitan area, from Toulouse-Blagnac airport to Muret and Colomiers to Balma.",
+    "population": 554668,
+    "initialViewState": {
+        "latitude": 43.6045,
+        "longitude": 1.4442,
+        "zoom": 12,
+        "bearing": 0
+    },
+    "creator": "pierreggt",
+    "version": "1.0.3",
+    "country": "FR"
+}

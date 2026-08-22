@@ -1,0 +1,21 @@
+{
+    "code": "RNS",
+    "name": "Rennes",
+    "bbox": [
+        -1.85,
+        48.0,
+        -1.5,
+        48.22
+    ],
+    "description": "Map of the Rennes metropolitan area, from Rennes-Saint-Jacques airport to Cesson-Sevigne and Saint-Gregoire.",
+    "population": 297940,
+    "initialViewState": {
+        "latitude": 48.1173,
+        "longitude": -1.6778,
+        "zoom": 12,
+        "bearing": 0
+    },
+    "creator": "pierreggt",
+    "version": "1.0.1",
+    "country": "FR"
+}

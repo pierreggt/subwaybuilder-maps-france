@@ -1,0 +1,9 @@
+{
+    "id": "com.pierreggt.rennes",
+    "name": "Rennes",
+    "description": "Map of the Rennes metropolitan area, from Rennes-Saint-Jacques airport to Cesson-Sevigne and Saint-Gregoire.",
+    "version": "1.0.0",
+    "author": { "name": "pierreggt" },
+    "main": "index.js",
+    "dependencies": { "subway-builder": ">=1.0.0" }
+}

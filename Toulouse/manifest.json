@@ -1,0 +1,9 @@
+{
+    "id": "com.pierreggt.toulouse",
+    "name": "Toulouse",
+    "description": "Map of the Toulouse metropolitan area, from Toulouse-Blagnac airport to Muret and Balma.",
+    "version": "1.0.0",
+    "author": { "name": "pierreggt" },
+    "main": "index.js",
+    "dependencies": { "subway-builder": ">=1.0.0" }
+}
