@@ -1,9 +1,0 @@
-{
-    "id": "com.pierreggt.guadeloupe",
-    "name": "Guadeloupe",
-    "description": "Map of the entire Guadeloupe archipelago, from Basse-Terre and Grande-Terre to Marie-Galante, Les Saintes and La Desirade. INSEE MOBPRO demand data.",
-    "version": "1.0.0",
-    "author": { "name": "pierreggt" },
-    "main": "index.js",
-    "dependencies": { "subway-builder": ">=1.0.0" }
-}

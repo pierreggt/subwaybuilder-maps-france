@@ -1,9 +1,0 @@
-{
-    "id": "com.pierreggt.guyane",
-    "name": "Guyane",
-    "description": "Map of French Guiana's developed coastal corridor, from Saint-Laurent-du-Maroni and Kourou (Guiana Space Centre) to Cayenne and its airport. INSEE MOBPRO demand data.",
-    "version": "1.0.0",
-    "author": { "name": "pierreggt" },
-    "main": "index.js",
-    "dependencies": { "subway-builder": ">=1.0.0" }
-}
