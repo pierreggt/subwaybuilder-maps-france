@@ -1,0 +1,13 @@
+{
+    "id": "com.pierreggt.troyes",
+    "name": "Troyes",
+    "description": "Map of Troyes, France, with the TCAT network, the Centre Hospitalier de Troyes and the UTT.",
+    "version": "1.0.0",
+    "author": {
+        "name": "pierreggt"
+    },
+    "main": "index.js",
+    "dependencies": {
+        "subway-builder": ">=1.0.0"
+    }
+}

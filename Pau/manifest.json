@@ -1,0 +1,13 @@
+{
+    "id": "com.pierreggt.pau",
+    "name": "Pau",
+    "description": "Map of Pau, France, with the Idelis network (Febus BHNS), the Centre Hospitalier de Pau and the UPPA campus.",
+    "version": "1.0.0",
+    "author": {
+        "name": "pierreggt"
+    },
+    "main": "index.js",
+    "dependencies": {
+        "subway-builder": ">=1.0.0"
+    }
+}

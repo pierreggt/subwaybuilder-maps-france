@@ -1,0 +1,13 @@
+{
+    "id": "com.pierreggt.limoges",
+    "name": "Limoges",
+    "description": "Map of Limoges, France, with the TCL network, the CHU Dupuytren and the Universite de Limoges.",
+    "version": "1.0.0",
+    "author": {
+        "name": "pierreggt"
+    },
+    "main": "index.js",
+    "dependencies": {
+        "subway-builder": ">=1.0.0"
+    }
+}

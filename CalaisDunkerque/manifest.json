@@ -1,0 +1,13 @@
+{
+    "id": "com.pierreggt.calaisdunkerque",
+    "name": "Calais - Dunkerque",
+    "description": "Map of the Calais-Dunkerque coastal area, France, with the free DK Bus network, Universite du Littoral Cote d Opale and the Centre Hospitalier de Dunkerque.",
+    "version": "1.0.0",
+    "author": {
+        "name": "pierreggt"
+    },
+    "main": "index.js",
+    "dependencies": {
+        "subway-builder": ">=1.0.0"
+    }
+}

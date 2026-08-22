@@ -1,0 +1,13 @@
+{
+    "id": "com.pierreggt.larochelle",
+    "name": "La Rochelle",
+    "description": "Map of La Rochelle, France, and the Ile de Re, with the Yelo network, the Centre Hospitalier and the Grand Port Maritime.",
+    "version": "1.0.0",
+    "author": {
+        "name": "pierreggt"
+    },
+    "main": "index.js",
+    "dependencies": {
+        "subway-builder": ">=1.0.0"
+    }
+}

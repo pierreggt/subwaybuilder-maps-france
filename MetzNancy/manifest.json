@@ -1,0 +1,13 @@
+{
+    "id": "com.pierreggt.metznancy",
+    "name": "Metz - Nancy",
+    "description": "Map of the Sillon Lorrain, France, covering Metz and Nancy, with the Le Met'/Mettis and Stan networks.",
+    "version": "1.0.0",
+    "author": {
+        "name": "pierreggt"
+    },
+    "main": "index.js",
+    "dependencies": {
+        "subway-builder": ">=1.0.0"
+    }
+}

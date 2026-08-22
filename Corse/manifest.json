@@ -1,0 +1,13 @@
+{
+    "id": "com.pierreggt.corse",
+    "name": "Corse",
+    "description": "Map of the whole island of Corsica, France, with the 4 airports, the Chemins de Fer de la Corse, and the Muvistrada/ViaBastia networks.",
+    "version": "1.0.0",
+    "author": {
+        "name": "pierreggt"
+    },
+    "main": "index.js",
+    "dependencies": {
+        "subway-builder": ">=1.0.0"
+    }
+}

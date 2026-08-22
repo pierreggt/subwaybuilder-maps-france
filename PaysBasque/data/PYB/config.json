@@ -1,0 +1,21 @@
+{
+    "code": "PYB",
+    "name": "Pays Basque",
+    "bbox": [
+        -2.1,
+        43.2,
+        -1.42,
+        43.565
+    ],
+    "description": "Cross-border map of the French and Spanish Basque Country, from Tarnos/Bayonne to San Sebastian/Donostia, with the Txik Txak and DBUS/Euskotren networks.",
+    "population": 330535,
+    "initialViewState": {
+        "latitude": 43.36,
+        "longitude": -1.75,
+        "zoom": 12,
+        "bearing": 0
+    },
+    "creator": "pierreggt",
+    "version": "1.0.0",
+    "country": "FR"
+}

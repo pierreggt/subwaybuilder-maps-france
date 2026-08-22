@@ -1,0 +1,13 @@
+{
+    "id": "com.pierreggt.arcmediterraneen",
+    "name": "L’Arc Mediterraneen",
+    "description": "Map of the French Mediterranean coast, from Carcassonne to Avignon: Narbonne, Beziers, the etang de Thau (Sete, Agde), Perpignan, Montpellier, Nimes and Arles.",
+    "version": "1.0.0",
+    "author": {
+        "name": "pierreggt"
+    },
+    "main": "index.js",
+    "dependencies": {
+        "subway-builder": ">=1.0.0"
+    }
+}

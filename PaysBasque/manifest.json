@@ -1,0 +1,13 @@
+{
+    "id": "com.pierreggt.paysbasque",
+    "name": "Pays Basque",
+    "description": "Cross-border map of the French and Spanish Basque Country, from Tarnos/Bayonne to San Sebastian/Donostia, with the Txik Txak and DBUS/Euskotren networks.",
+    "version": "1.0.0",
+    "author": {
+        "name": "pierreggt"
+    },
+    "main": "index.js",
+    "dependencies": {
+        "subway-builder": ">=1.0.0"
+    }
+}

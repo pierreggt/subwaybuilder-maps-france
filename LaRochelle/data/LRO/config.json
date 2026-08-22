@@ -1,0 +1,21 @@
+{
+    "code": "LRO",
+    "name": "La Rochelle",
+    "bbox": [
+        -1.57,
+        45.99,
+        -0.91,
+        46.27
+    ],
+    "description": "Map of La Rochelle, France, and the Ile de Re, with the Yelo network, the Centre Hospitalier and the Grand Port Maritime.",
+    "population": 109625,
+    "initialViewState": {
+        "latitude": 46.13,
+        "longitude": -1.25,
+        "zoom": 12,
+        "bearing": 0
+    },
+    "creator": "pierreggt",
+    "version": "1.0.0",
+    "country": "FR"
+}

@@ -1,0 +1,21 @@
+{
+    "code": "CDK",
+    "name": "Calais - Dunkerque",
+    "bbox": [
+        1.55,
+        50.78,
+        2.5,
+        51.15
+    ],
+    "description": "Map of the Calais-Dunkerque coastal area, France, with the free DK'Bus network, Universite du Littoral Cote d'Opale and the Centre Hospitalier de Dunkerque.",
+    "population": 164220,
+    "initialViewState": {
+        "latitude": 50.97,
+        "longitude": 2.05,
+        "zoom": 12,
+        "bearing": 0
+    },
+    "creator": "pierreggt",
+    "version": "1.0.0",
+    "country": "FR"
+}

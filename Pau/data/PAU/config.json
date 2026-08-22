@@ -1,0 +1,21 @@
+{
+    "code": "PAU",
+    "name": "Pau",
+    "bbox": [
+        -0.445,
+        43.245,
+        -0.3,
+        43.42
+    ],
+    "description": "Map of Pau, France, with the Idelis network (Febus BHNS), the Centre Hospitalier de Pau and the UPPA campus.",
+    "population": 76062,
+    "initialViewState": {
+        "latitude": 43.31,
+        "longitude": -0.37,
+        "zoom": 12,
+        "bearing": 0
+    },
+    "creator": "pierreggt",
+    "version": "1.0.0",
+    "country": "FR"
+}

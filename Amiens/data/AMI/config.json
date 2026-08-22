@@ -1,0 +1,21 @@
+{
+    "code": "AMI",
+    "name": "Amiens",
+    "bbox": [
+        1.95,
+        49.72,
+        2.6,
+        50.1
+    ],
+    "description": "Map of the Amiens metropolitan area, France, with its Ametis BHNS network, Universite de Picardie Jules Verne and CHU Amiens-Picardie.",
+    "population": 155171,
+    "initialViewState": {
+        "latitude": 49.8942,
+        "longitude": 2.2957,
+        "zoom": 12,
+        "bearing": 0
+    },
+    "creator": "pierreggt",
+    "version": "1.0.0",
+    "country": "FR"
+}

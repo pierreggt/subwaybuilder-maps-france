@@ -1,0 +1,21 @@
+{
+    "code": "TRO",
+    "name": "Troyes",
+    "bbox": [
+        3.98,
+        48.23,
+        4.16,
+        48.35
+    ],
+    "description": "Map of Troyes, France, with the TCAT network, the Centre Hospitalier de Troyes and the UTT.",
+    "population": 68585,
+    "initialViewState": {
+        "latitude": 48.29,
+        "longitude": 4.08,
+        "zoom": 12,
+        "bearing": 0
+    },
+    "creator": "pierreggt",
+    "version": "1.0.0",
+    "country": "FR"
+}

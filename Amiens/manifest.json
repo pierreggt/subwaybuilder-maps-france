@@ -1,0 +1,13 @@
+{
+    "id": "com.pierreggt.amiens",
+    "name": "Amiens",
+    "description": "Map of the Amiens metropolitan area, France, with its Ametis BHNS network, Universite de Picardie Jules Verne and CHU Amiens-Picardie.",
+    "version": "1.0.0",
+    "author": {
+        "name": "pierreggt"
+    },
+    "main": "index.js",
+    "dependencies": {
+        "subway-builder": ">=1.0.0"
+    }
+}

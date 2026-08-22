@@ -1,0 +1,13 @@
+{
+    "id": "com.pierreggt.rouen",
+    "name": "Rouen",
+    "description": "Map of the Rouen metropolitan area, France, with its metro/Metrobus, TEOR and Astuce network, Universite de Rouen Normandie and CHU Rouen.",
+    "version": "1.0.0",
+    "author": {
+        "name": "pierreggt"
+    },
+    "main": "index.js",
+    "dependencies": {
+        "subway-builder": ">=1.0.0"
+    }
+}

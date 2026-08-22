@@ -1,0 +1,21 @@
+{
+    "code": "ROU",
+    "name": "Rouen",
+    "bbox": [
+        0.85,
+        49.2,
+        1.35,
+        49.65
+    ],
+    "description": "Map of the Rouen metropolitan area, France, with its metro/Metrobus, TEOR and Astuce network, Universite de Rouen Normandie and CHU Rouen.",
+    "population": 293606,
+    "initialViewState": {
+        "latitude": 49.4431,
+        "longitude": 1.0993,
+        "zoom": 12,
+        "bearing": 0
+    },
+    "creator": "pierreggt",
+    "version": "1.0.0",
+    "country": "FR"
+}
