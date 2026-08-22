@@ -1,0 +1,21 @@
+{
+    "code": "RMS",
+    "name": "Reims",
+    "bbox": [
+        3.82,
+        49.13,
+        4.3,
+        49.36
+    ],
+    "description": "Map of the Reims metropolitan area, with its tramway network, Universite de Reims Champagne-Ardenne and CHU de Reims.",
+    "population": 143108,
+    "initialViewState": {
+        "latitude": 49.2583,
+        "longitude": 4.0317,
+        "zoom": 12,
+        "bearing": 0
+    },
+    "creator": "pierreggt",
+    "version": "1.0.0",
+    "country": "FR"
+}

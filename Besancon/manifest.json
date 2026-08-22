@@ -1,0 +1,13 @@
+{
+    "id": "com.pierreggt.besancon",
+    "name": "Besancon",
+    "description": "Map of the Besancon metropolitan area, France, with its tramway network, Universite Marie-et-Louis-Pasteur and CHU Besancon.",
+    "version": "1.0.0",
+    "author": {
+        "name": "pierreggt"
+    },
+    "main": "index.js",
+    "dependencies": {
+        "subway-builder": ">=1.0.0"
+    }
+}

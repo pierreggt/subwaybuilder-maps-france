@@ -1,0 +1,21 @@
+{
+    "code": "LEM",
+    "name": "Le Mans",
+    "bbox": [
+        0.04,
+        47.91,
+        0.33,
+        48.13
+    ],
+    "description": "Map of the Le Mans metropolitan area, with its tramway network, Le Mans Universite and the Centre Hospitalier du Mans.",
+    "population": 124256,
+    "initialViewState": {
+        "latitude": 48.0061,
+        "longitude": 0.1996,
+        "zoom": 12,
+        "bearing": 0
+    },
+    "creator": "pierreggt",
+    "version": "1.0.0",
+    "country": "FR"
+}

@@ -1,0 +1,21 @@
+{
+    "code": "FDF",
+    "name": "Martinique",
+    "bbox": [
+        -61.43,
+        14.19,
+        -60.61,
+        15.08
+    ],
+    "description": "Map of Martinique, from Fort-de-France and Aime Cesaire airport to Le Robert, Riviere-Salee and Sainte-Luce -- the whole island.",
+    "population": 144261,
+    "initialViewState": {
+        "latitude": 14.6037,
+        "longitude": -61.0764,
+        "zoom": 12,
+        "bearing": 0
+    },
+    "creator": "pierreggt",
+    "version": "1.0.0",
+    "country": "FR"
+}

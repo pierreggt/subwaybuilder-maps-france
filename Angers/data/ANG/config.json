@@ -1,0 +1,21 @@
+{
+    "code": "ANG",
+    "name": "Angers",
+    "bbox": [
+        -0.78,
+        47.34,
+        -0.24,
+        47.65
+    ],
+    "description": "Map of the Angers metropolitan area, with its tramway network, Universite d'Angers and CHU Angers.",
+    "population": 211758,
+    "initialViewState": {
+        "latitude": 47.4712,
+        "longitude": -0.5636,
+        "zoom": 12,
+        "bearing": 0
+    },
+    "creator": "pierreggt",
+    "version": "1.0.0",
+    "country": "FR"
+}

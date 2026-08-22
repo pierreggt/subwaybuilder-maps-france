@@ -1,0 +1,13 @@
+{
+    "id": "com.pierreggt.orleans",
+    "name": "Orleans",
+    "description": "Map of the Orleans metropolitan area, France, with its tramway network, Universite d Orleans and the CHR d Orleans.",
+    "version": "1.0.0",
+    "author": {
+        "name": "pierreggt"
+    },
+    "main": "index.js",
+    "dependencies": {
+        "subway-builder": ">=1.0.0"
+    }
+}

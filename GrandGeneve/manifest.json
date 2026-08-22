@@ -1,0 +1,13 @@
+{
+    "id": "com.pierreggt.grandgeneve",
+    "name": "Grand Geneve",
+    "description": "Map of the cross-border Grand Geneve area (Switzerland/France), with the Leman Express regional rail network, Geneva Airport, CERN and the Annemasse hub.",
+    "version": "1.0.0",
+    "author": {
+        "name": "pierreggt"
+    },
+    "main": "index.js",
+    "dependencies": {
+        "subway-builder": ">=1.0.0"
+    }
+}

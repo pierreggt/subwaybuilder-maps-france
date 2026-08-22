@@ -1,0 +1,9 @@
+{
+    "id": "com.pierreggt.martinique",
+    "name": "Martinique",
+    "description": "Map of the entire island of Martinique, from Fort-de-France to Le Robert, Riviere-Salee and Sainte-Luce. INSEE Filosofi + MOBPRO demand data, Aime Cesaire airport.",
+    "version": "1.0.0",
+    "author": { "name": "pierreggt" },
+    "main": "index.js",
+    "dependencies": { "subway-builder": ">=1.0.0" }
+}
