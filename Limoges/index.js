@@ -16,28 +16,28 @@
 
     api.registerCity({
         name: 'Limoges',
-        code: 'LIM',
+        code: 'LMG',
         description: t('description'),
         population: 118045,
         initialViewState: { zoom: 11, latitude: 45.83, longitude: 1.26, bearing: 0 }
     });
 
-    api.cities.registerTab({ id: 'france-lim', label: 'France', cityCodes: ['LIM'] });
+    api.cities.registerTab({ id: 'france-lim', label: 'France', cityCodes: ['LMG'] });
 
     api.map.setTileURLOverride({
-        cityCode: 'LIM',
-        tilesUrl: 'http://127.0.0.1:8106/LIM/{z}/{x}/{y}.mvt',
-        foundationTilesUrl: 'http://127.0.0.1:8106/LIM_foundations/{z}/{x}/{y}.mvt',
+        cityCode: 'LMG',
+        tilesUrl: 'http://127.0.0.1:8106/LMG/{z}/{x}/{y}.mvt',
+        foundationTilesUrl: 'http://127.0.0.1:8106/LMG_foundations/{z}/{x}/{y}.mvt',
         maxZoom: 15
     });
 
-    api.cities.setCityDataFiles('LIM', {
-        buildingsIndex: '/data/LIM/buildings_index.bin.gz',
-        demandData: '/data/LIM/demand_data.json.gz',
-        roads: '/data/LIM/roads.geojson.gz',
-        runwaysTaxiways: '/data/LIM/runways_taxiways.geojson.gz',
-        oceanDepthIndex: '/data/LIM/ocean_depth_index.json.gz',
-        oceanDepthContours: '/data/LIM/ocean_depth_index_contours.json.gz'
+    api.cities.setCityDataFiles('LMG', {
+        buildingsIndex: '/data/LMG/buildings_index.bin.gz',
+        demandData: '/data/LMG/demand_data.json.gz',
+        roads: '/data/LMG/roads.geojson.gz',
+        runwaysTaxiways: '/data/LMG/runways_taxiways.geojson.gz',
+        oceanDepthIndex: '/data/LMG/ocean_depth_index.json.gz',
+        oceanDepthContours: '/data/LMG/ocean_depth_index_contours.json.gz'
     });
 
     api.map.setLayerOverride({
@@ -55,7 +55,7 @@
     });
 
     api.hooks.onCityLoad(function(cityCode) {
-        if (cityCode === 'LIM') api.ui.showNotification(t('notification'), 'info');
+        if (cityCode === 'LMG') api.ui.showNotification(t('notification'), 'info');
     });
 
     console.log(LOG, 'Limoges mod loaded successfully!');
