@@ -1,0 +1,9 @@
+{
+    "id": "com.pierreggt.paris",
+    "name": "Paris",
+    "description": "Map of Paris and the whole Ile-de-France region, extended to every town where an RER or Transilien line has its terminus (Creil, Crepy-en-Valois, Chateau-Thierry, Gisors, Vernon, Dreux, Montargis). Jobs placed on real buildings via INSEE SIRENE establishment data.",
+    "version": "2.0.0",
+    "author": { "name": "pierreggt" },
+    "main": "index.js",
+    "dependencies": { "subway-builder": ">=1.0.0" }
+}
