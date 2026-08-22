@@ -20,6 +20,9 @@ Each `<code>-update.json` follows the registry's `schema_version: 1` update mani
 
 | City | Code | Update manifest |
 |---|---|---|
+| Nantes | NTE | [updates/nte-update.json](updates/nte-update.json) |
+| Rennes | RNS | [updates/rns-update.json](updates/rns-update.json) |
+| Toulouse | TLS | [updates/tls-update.json](updates/tls-update.json) |
 | Angers | ANG | [updates/ang-update.json](updates/ang-update.json) |
 | Flandre & Hainaut (Lille) | LIL | [updates/lil-update.json](updates/lil-update.json) |
 | Lyon - Vallée du Rhône & Alpes | LSY | [updates/lsy-update.json](updates/lsy-update.json) |
