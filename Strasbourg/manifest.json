@@ -1,0 +1,9 @@
+{
+    "id": "com.pierreggt.strasbourg",
+    "name": "Strasbourg",
+    "description": "Map of the Strasbourg metropolitan area, from Strasbourg-Entzheim airport to the European institutions and Kehl border. Cross-border demand refreshed with real sourced data.",
+    "version": "1.0.3",
+    "author": { "name": "pierreggt" },
+    "main": "index.js",
+    "dependencies": { "subway-builder": ">=1.0.0" }
+}
