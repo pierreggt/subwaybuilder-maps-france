@@ -46,6 +46,7 @@ Each `<code>-update.json` follows the registry's `schema_version: 1` update mani
 | Martinique | FDF | [updates/fdf-update.json](updates/fdf-update.json) |
 | Metz-Nancy | MNC | [updates/mnc-update.json](updates/mnc-update.json) |
 | Orléans | ORL | [updates/orl-update.json](updates/orl-update.json) |
+| Paris | PRS | [updates/prs-update.json](updates/prs-update.json) |
 | Pau | PAU | [updates/pau-update.json](updates/pau-update.json) |
 | Pays Basque | PYB | [updates/pyb-update.json](updates/pyb-update.json) |
 | Reims | RMS | [updates/rms-update.json](updates/rms-update.json) |

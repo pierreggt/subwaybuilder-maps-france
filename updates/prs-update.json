@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "2.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-08-22",
+      "changelog": "Major rebuild: full RER/Transilien network extent, real INSEE SIRENE job placement.",
+      "download": "https://github.com/pierreggt/subwaybuilder-maps-france/releases/download/prs-v2.0.0/paris_v2.0.0.zip",
+      "sha256": "1d75589bcbf47c5aea2a69f7a937069d2feced0f4c531f44eead26560c23db5f"
+    }
+  ]
+}
