@@ -36,7 +36,7 @@ Each `<code>-update.json` follows the registry's `schema_version: 1` update mani
 | La Réunion | RUN | [updates/run-update.json](updates/run-update.json) |
 | Le Havre | LHA | [updates/lha-update.json](updates/lha-update.json) |
 | Le Mans | LEM | [updates/lem-update.json](updates/lem-update.json) |
-| Limoges | LIM | [updates/lim-update.json](updates/lim-update.json) |
+| Limoges | LMG | [updates/lmg-update.json](updates/lmg-update.json) |
 | Martinique | FDF | [updates/fdf-update.json](updates/fdf-update.json) |
 | Metz-Nancy | MNC | [updates/mnc-update.json](updates/mnc-update.json) |
 | Orléans | ORL | [updates/orl-update.json](updates/orl-update.json) |
