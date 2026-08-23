@@ -2,6 +2,14 @@
   "schema_version": 1,
   "versions": [
     {
+      "version": "2.0.1",
+      "game_version": ">=1.0.0",
+      "date": "2026-08-23",
+      "changelog": "Fix worker point granularity: merged small SIRENE establishments (dev feedback), 143923->108933 points.",
+      "download": "https://github.com/pierreggt/subwaybuilder-maps-france/releases/download/prs-v2.0.1/paris_v2.0.1.zip",
+      "sha256": "b172372e4472e23e887c00805b354ac841db1837adfc1e9906f808b3e1bcd491"
+    },
+    {
       "version": "2.0.0",
       "game_version": ">=1.0.0",
       "date": "2026-08-22",
