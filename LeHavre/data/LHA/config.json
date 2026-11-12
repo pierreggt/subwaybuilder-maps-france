@@ -8,7 +8,7 @@
         49.65
     ],
     "description": "Map of the Le Havre metropolitan area, with its tramway network, Universite Le Havre Normandie and the Groupe Hospitalier du Havre.",
-    "population": 117868,
+    "population": 117888,
     "initialViewState": {
         "latitude": 49.4944,
         "longitude": 0.1079,
@@ -16,6 +16,6 @@
         "bearing": 0
     },
     "creator": "pierreggt",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "country": "FR"
 }

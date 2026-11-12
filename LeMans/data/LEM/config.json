@@ -8,7 +8,7 @@
         48.13
     ],
     "description": "Map of the Le Mans metropolitan area, with its tramway network, Le Mans Universite and the Centre Hospitalier du Mans.",
-    "population": 124256,
+    "population": 124322,
     "initialViewState": {
         "latitude": 48.0061,
         "longitude": 0.1996,
@@ -16,6 +16,6 @@
         "bearing": 0
     },
     "creator": "pierreggt",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "country": "FR"
 }
