@@ -17,6 +17,7 @@
     api.registerCity({
         name: 'Guyane',
         code: 'CAY',
+        country: 'FR',
         description: t('description'),
         population: 293996,
         initialViewState: { zoom: 10, latitude: 4.9346, longitude: -52.3364, bearing: 0 }

@@ -17,6 +17,7 @@
     api.registerCity({
         name: 'Caen',
         code: 'CAE',
+        country: 'FR',
         description: t('description'),
         population: 185885,
         initialViewState: { zoom: 12, latitude: 49.1829, longitude: -0.3707, bearing: 0 }

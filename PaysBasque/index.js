@@ -17,6 +17,7 @@
     api.registerCity({
         name: 'Pays Basque',
         code: 'PYB',
+        country: 'FR',
         description: t('description'),
         population: 330535,
         initialViewState: { zoom: 10, latitude: 43.36, longitude: -1.75, bearing: 0 }

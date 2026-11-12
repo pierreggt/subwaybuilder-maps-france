@@ -17,6 +17,7 @@
     api.registerCity({
         name: 'Strasbourg',
         code: 'STR',
+        country: 'FR',
         description: t('description'),
         population: 371948,
         initialViewState: { zoom: 12, latitude: 48.5734, longitude: 7.7521, bearing: 0 }

@@ -17,6 +17,7 @@
     api.registerCity({
         name: 'Toulouse',
         code: 'TLS',
+        country: 'FR',
         description: t('description'),
         population: 554668,
         initialViewState: { zoom: 11, latitude: 43.6045, longitude: 1.4442, bearing: 0 }

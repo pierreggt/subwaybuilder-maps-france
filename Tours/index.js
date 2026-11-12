@@ -17,6 +17,7 @@
     api.registerCity({
         name: 'Tours',
         code: 'TOU',
+        country: 'FR',
         description: t('description'),
         population: 188817,
         initialViewState: { zoom: 12, latitude: 47.3941, longitude: 0.6848, bearing: 0 }

@@ -17,6 +17,7 @@
     api.registerCity({
         name: "L’Arc Mediterraneen",
         code: 'NAR',
+        country: 'FR',
         description: t('description'),
         population: 1475594,
         initialViewState: { zoom: 9, latitude: 43.3, longitude: 3.6, bearing: 0 }

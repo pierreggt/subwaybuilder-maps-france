@@ -17,6 +17,7 @@
     api.registerCity({
         name: 'Reims',
         code: 'RMS',
+        country: 'FR',
         description: t('description'),
         population: 143108,
         initialViewState: { zoom: 12, latitude: 49.2583, longitude: 4.0317, bearing: 0 }

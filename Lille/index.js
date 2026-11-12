@@ -17,6 +17,7 @@
     api.registerCity({
         name: 'Flandre & Hainaut',
         code: 'LIL',
+        country: 'FR',
         description: t('description'),
         population: 1060367,
         initialViewState: { zoom: 9, latitude: 50.5, longitude: 2.95, bearing: 0 }

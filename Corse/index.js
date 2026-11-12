@@ -17,6 +17,7 @@
     api.registerCity({
         name: 'Corse',
         code: 'COR',
+        country: 'FR',
         description: t('description'),
         population: 167762,
         initialViewState: { zoom: 8.5, latitude: 42.15, longitude: 9.1, bearing: 0 }

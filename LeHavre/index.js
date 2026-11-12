@@ -17,6 +17,7 @@
     api.registerCity({
         name: 'Le Havre',
         code: 'LHA',
+        country: 'FR',
         description: t('description'),
         population: 117868,
         initialViewState: { zoom: 12, latitude: 49.4944, longitude: 0.1079, bearing: 0 }

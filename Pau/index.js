@@ -17,6 +17,7 @@
     api.registerCity({
         name: 'Pau',
         code: 'PAU',
+        country: 'FR',
         description: t('description'),
         population: 76062,
         initialViewState: { zoom: 12, latitude: 43.31, longitude: -0.37, bearing: 0 }

@@ -17,6 +17,7 @@
     api.registerCity({
         name: 'Troyes',
         code: 'TRO',
+        country: 'FR',
         description: t('description'),
         population: 68585,
         initialViewState: { zoom: 12, latitude: 48.29, longitude: 4.08, bearing: 0 }

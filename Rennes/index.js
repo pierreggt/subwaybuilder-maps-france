@@ -17,6 +17,7 @@
     api.registerCity({
         name: 'Rennes',
         code: 'RNS',
+        country: 'FR',
         description: t('description'),
         population: 297940,
         initialViewState: { zoom: 12, latitude: 48.1173, longitude: -1.6778, bearing: 0 }

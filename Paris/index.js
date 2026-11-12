@@ -17,6 +17,7 @@
     api.registerCity({
         name: 'Paris - Ile de France',
         code: 'PRS',
+        country: 'FR',
         description: t('description'),
         population: 6650825,
         initialViewState: { zoom: 8, latitude: 48.75, longitude: 2.35, bearing: 0 }

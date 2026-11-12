@@ -17,6 +17,7 @@
     api.registerCity({
         name: 'Nantes',
         code: 'NTE',
+        country: 'FR',
         description: t('description'),
         population: 447121,
         initialViewState: { zoom: 12, latitude: 47.2184, longitude: -1.5536, bearing: 0 }

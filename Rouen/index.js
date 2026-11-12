@@ -17,6 +17,7 @@
     api.registerCity({
         name: 'Rouen',
         code: 'ROU',
+        country: 'FR',
         description: t('description'),
         population: 293606,
         initialViewState: { zoom: 12, latitude: 49.4431, longitude: 1.0993, bearing: 0 }

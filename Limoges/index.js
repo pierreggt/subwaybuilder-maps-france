@@ -17,6 +17,7 @@
     api.registerCity({
         name: 'Limoges',
         code: 'LMG',
+        country: 'FR',
         description: t('description'),
         population: 118045,
         initialViewState: { zoom: 11, latitude: 45.83, longitude: 1.26, bearing: 0 }

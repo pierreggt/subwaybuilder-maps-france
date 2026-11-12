@@ -17,6 +17,7 @@
     api.registerCity({
         name: 'Brest',
         code: 'BRE',
+        country: 'FR',
         description: t('description'),
         population: 171425,
         initialViewState: { zoom: 12, latitude: 48.3904, longitude: -4.486, bearing: 0 }

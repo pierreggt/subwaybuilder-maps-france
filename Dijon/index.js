@@ -17,6 +17,7 @@
     api.registerCity({
         name: 'Dijon',
         code: 'DIJ',
+        country: 'FR',
         description: t('description'),
         population: 181380,
         initialViewState: { zoom: 12, latitude: 47.322, longitude: 5.0415, bearing: 0 }

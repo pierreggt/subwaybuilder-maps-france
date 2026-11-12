@@ -17,6 +17,7 @@
     api.registerCity({
         name: 'Metz - Nancy',
         code: 'MNC',
+        country: 'FR',
         description: t('description'),
         population: 339768,
         initialViewState: { zoom: 10, latitude: 48.90, longitude: 6.17, bearing: 0 }

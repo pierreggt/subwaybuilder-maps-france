@@ -17,6 +17,7 @@
     api.registerCity({
         name: 'Martinique',
         code: 'FDF',
+        country: 'FR',
         description: t('description'),
         population: 355500,
         initialViewState: { zoom: 11, latitude: 14.6037, longitude: -61.0764, bearing: 0 }

@@ -17,6 +17,7 @@
     api.registerCity({
         name: 'Marseille - Provence',
         code: 'MRS',
+        country: 'FR',
         description: t('description'),
         population: 1146909,
         initialViewState: { zoom: 9, latitude: 43.35, longitude: 5.45, bearing: 0 }

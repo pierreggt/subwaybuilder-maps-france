@@ -17,6 +17,7 @@
     api.registerCity({
         name: 'Le Mans',
         code: 'LEM',
+        country: 'FR',
         description: t('description'),
         population: 124256,
         initialViewState: { zoom: 12, latitude: 48.0061, longitude: 0.1996, bearing: 0 }

@@ -17,6 +17,7 @@
     api.registerCity({
         name: 'Besancon',
         code: 'BES',
+        country: 'FR',
         description: t('description'),
         population: 129356,
         initialViewState: { zoom: 12, latitude: 47.2378, longitude: 6.0244, bearing: 0 }

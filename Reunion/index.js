@@ -17,6 +17,7 @@
     api.registerCity({
         name: 'La Reunion',
         code: 'RUN',
+        country: 'FR',
         description: t('description'),
         population: 896200,
         initialViewState: { zoom: 11, latitude: -20.8722, longitude: 55.4477, bearing: 0 }

@@ -17,6 +17,7 @@
     api.registerCity({
         name: 'Orleans',
         code: 'ORL',
+        country: 'FR',
         description: t('description'),
         population: 173480,
         initialViewState: { zoom: 12, latitude: 47.9029, longitude: 1.9039, bearing: 0 }

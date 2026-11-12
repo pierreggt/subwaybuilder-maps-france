@@ -17,6 +17,7 @@
     api.registerCity({
         name: 'Guadeloupe',
         code: 'PTP',
+        country: 'FR',
         description: t('description'),
         population: 380400,
         initialViewState: { zoom: 11, latitude: 16.2415, longitude: -61.5333, bearing: 0 }

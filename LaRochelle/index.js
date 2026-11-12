@@ -17,6 +17,7 @@
     api.registerCity({
         name: 'La Rochelle',
         code: 'LRO',
+        country: 'FR',
         description: t('description'),
         population: 109625,
         initialViewState: { zoom: 11, latitude: 46.13, longitude: -1.25, bearing: 0 }

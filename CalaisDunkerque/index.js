@@ -17,6 +17,7 @@
     api.registerCity({
         name: 'Calais - Dunkerque',
         code: 'CDK',
+        country: 'FR',
         description: t('description'),
         population: 164220,
         initialViewState: { zoom: 10, latitude: 50.97, longitude: 2.05, bearing: 0 }

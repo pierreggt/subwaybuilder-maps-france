@@ -17,6 +17,7 @@
     api.registerCity({
         name: 'Amiens',
         code: 'AMI',
+        country: 'FR',
         description: t('description'),
         population: 155171,
         initialViewState: { zoom: 12, latitude: 49.8942, longitude: 2.2957, bearing: 0 }

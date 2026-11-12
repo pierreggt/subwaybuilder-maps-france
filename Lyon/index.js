@@ -17,6 +17,7 @@
     api.registerCity({
         name: 'Lyon - Vallee du Rhone & Alpes',
         code: 'LSY',
+        country: 'FR',
         description: t('description'),
         population: 2719487,
         initialViewState: { zoom: 8, latitude: 45.55, longitude: 4.55, bearing: 0 }

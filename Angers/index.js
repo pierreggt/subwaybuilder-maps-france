@@ -17,6 +17,7 @@
     api.registerCity({
         name: 'Angers',
         code: 'ANG',
+        country: 'FR',
         description: t('description'),
         population: 211758,
         initialViewState: { zoom: 12, latitude: 47.4712, longitude: -0.5636, bearing: 0 }
