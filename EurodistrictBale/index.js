@@ -55,6 +55,39 @@
         filter: ['==', ['get', 'kind'], 'aerodrome']
     });
 
+    // Major named forests (>0.5km2) as a dedicated label layer, since the
+    // base game only labels OSM place= nodes -- this region's dense
+    // Alemannic place=locality tagging (field/forest parcel names, not real
+    // settlements) was already dropped from neighborhood_labels at the data
+    // level; this restores forest names for the handful that matter.
+    api.map.registerLayer({
+        id: 'forest-labels',
+        type: 'symbol',
+        source: 'general-tiles',
+        'source-layer': 'forest_labels',
+        filter: ['has', 'name'],
+        minzoom: 9,
+        maxzoom: 14,
+        layout: {
+            'text-field': ['get', 'name'],
+            'text-font': ['Open Sans Regular', 'Arial Unicode MS Regular'],
+            'text-size': ['interpolate', ['linear'], ['zoom'], 9, 11, 14, 15],
+            'text-rotation-alignment': 'viewport',
+            'text-pitch-alignment': 'viewport',
+            'text-padding': 8,
+            'text-anchor': 'center',
+            'text-overlap': 'never',
+            'text-max-width': 8,
+            'text-line-height': 1.1
+        },
+        paint: {
+            'text-color': '#3f6b4a',
+            'text-halo-color': 'rgba(255,255,255,0.85)',
+            'text-halo-width': 1.2,
+            'text-halo-blur': 0.3
+        }
+    }, 'neighborhood-labels');
+
     api.hooks.onCityLoad(function(cityCode) {
         if (cityCode === 'BSL') api.ui.showNotification(t('notification'), 'info');
     });
