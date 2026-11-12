@@ -1,1 +1,21 @@
-{"code": "STR", "name": "Strasbourg", "bbox": [7.55, 48.47, 7.84, 48.68], "description": "Map of the Strasbourg metropolitan area, from Strasbourg-Entzheim airport to the European institutions and Kehl border.", "population": 372018, "initialViewState": {"latitude": 48.5734, "longitude": 7.7521, "zoom": 12, "bearing": 0}, "creator": "pierreggt", "version": "1.0.3", "country": "FR"}
+{
+    "code": "STR",
+    "name": "Strasbourg",
+    "bbox": [
+        7.55,
+        48.47,
+        7.84,
+        48.68
+    ],
+    "description": "Map of the Strasbourg metropolitan area, from Strasbourg-Entzheim airport to the European institutions and Kehl border.",
+    "population": 372297,
+    "initialViewState": {
+        "latitude": 48.5734,
+        "longitude": 7.7521,
+        "zoom": 12,
+        "bearing": 0
+    },
+    "creator": "pierreggt",
+    "version": "2.0.0",
+    "country": "FR"
+}
