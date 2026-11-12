@@ -17,7 +17,7 @@
     api.registerCity({
         name: 'Grand Geneve',
         code: 'GVA',
-        country: 'FR',
+        country: 'CH',
         description: t('description'),
         population: 1453033,
         initialViewState: { zoom: 11, latitude: 46.2044, longitude: 6.1432, bearing: 0 }

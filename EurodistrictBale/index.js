@@ -17,7 +17,7 @@
     api.registerCity({
         name: 'Eurodistrict of Basel',
         code: 'BSL',
-        country: 'FR',
+        country: 'CH',
         description: t('description'),
         population: 864924,
         initialViewState: { zoom: 11, latitude: 47.5596, longitude: 7.5886, bearing: 0 }
