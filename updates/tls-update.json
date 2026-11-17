@@ -2,6 +2,14 @@
   "schema_version": 1,
   "versions": [
     {
+      "version": "2.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-11-17",
+      "changelog": "Full SERM commuter-rail rebuild: bbox expanded to cover all 5 branches (Montauban, Albi, Carcassonne, Auch, Montrejeau). SIRENE-based real job placement, 6 new SNCF station special points. Renamed to Toulouse - Occitanie.",
+      "download": "https://github.com/pierreggt/subwaybuilder-maps-france/releases/download/tls-v2.0.0/toulouse_v2.0.0.zip",
+      "sha256": "d9f91023c0806f2321080ab5da7084c886732295262f4b8c66e73066de004927"
+    },
+    {
       "version": "1.0.1",
       "game_version": ">=1.0.0",
       "date": "2026-08-22",
