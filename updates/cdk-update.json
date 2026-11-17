@@ -2,6 +2,14 @@
   "schema_version": 1,
   "versions": [
     {
+      "version": "2.0.1",
+      "game_version": ">=1.0.0",
+      "date": "2026-11-17",
+      "changelog": "Pre-publish data-quality sweep: removed demand points more than 600m from the nearest road (and 3 genuinely out-of-bbox points on the Spanish side for Pays Basque).",
+      "download": "https://github.com/pierreggt/subwaybuilder-maps-france/releases/download/cdk-v2.0.1/calaisdunkerque_v2.0.1.zip",
+      "sha256": "8d3a2b815f0a80dbe14cc156d2947b55701ab968426f332953e428bd6af5836d"
+    },
+    {
       "version": "1.0.0",
       "game_version": ">=1.0.0",
       "date": "2026-08-22",

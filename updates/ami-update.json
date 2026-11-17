@@ -2,6 +2,14 @@
   "schema_version": 1,
   "versions": [
     {
+      "version": "2.0.1",
+      "game_version": ">=1.0.0",
+      "date": "2026-11-17",
+      "changelog": "Pre-publish data-quality sweep: removed demand points more than 600m from the nearest road (and 3 genuinely out-of-bbox points on the Spanish side for Pays Basque).",
+      "download": "https://github.com/pierreggt/subwaybuilder-maps-france/releases/download/ami-v2.0.1/amiens_v2.0.1.zip",
+      "sha256": "c3b830e5d156244cc10a2c66b2c344ceda52fc8b93f7a03254783ef71fc5053c"
+    },
+    {
       "version": "1.0.0",
       "game_version": ">=1.0.0",
       "date": "2026-08-22",

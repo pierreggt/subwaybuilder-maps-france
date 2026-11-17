@@ -2,6 +2,14 @@
   "schema_version": 1,
   "versions": [
     {
+      "version": "2.0.1",
+      "game_version": ">=1.0.0",
+      "date": "2026-11-17",
+      "changelog": "Pre-publish data-quality sweep: removed demand points more than 600m from the nearest road (and 3 genuinely out-of-bbox points on the Spanish side for Pays Basque).",
+      "download": "https://github.com/pierreggt/subwaybuilder-maps-france/releases/download/fdf-v2.0.1/martinique_v2.0.1.zip",
+      "sha256": "6659a5b1c17e8a0a96d338a101fe627340d1fae1a42eda0d1b80f3109c952c0f"
+    },
+    {
       "version": "1.0.0",
       "game_version": ">=1.0.0",
       "date": "2026-08-21",

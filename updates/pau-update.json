@@ -2,6 +2,14 @@
   "schema_version": 1,
   "versions": [
     {
+      "version": "2.0.1",
+      "game_version": ">=1.0.0",
+      "date": "2026-11-17",
+      "changelog": "Pre-publish data-quality sweep: removed demand points more than 600m from the nearest road (and 3 genuinely out-of-bbox points on the Spanish side for Pays Basque).",
+      "download": "https://github.com/pierreggt/subwaybuilder-maps-france/releases/download/pau-v2.0.1/pau_v2.0.1.zip",
+      "sha256": "503a9be2bfa40695c80302e01589d64adf0b708f3430fc009d51aacb33cc4e0f"
+    },
+    {
       "version": "1.0.0",
       "game_version": ">=1.0.0",
       "date": "2026-08-22",

@@ -2,6 +2,14 @@
   "schema_version": 1,
   "versions": [
     {
+      "version": "2.0.1",
+      "game_version": ">=1.0.0",
+      "date": "2026-11-17",
+      "changelog": "Pre-publish data-quality sweep: removed demand points more than 600m from the nearest road (and 3 genuinely out-of-bbox points on the Spanish side for Pays Basque).",
+      "download": "https://github.com/pierreggt/subwaybuilder-maps-france/releases/download/cor-v2.0.1/corse_v2.0.1.zip",
+      "sha256": "a439f4d6916d6666fd00d6257f8c954f065be81ceb68a59fbc81136995a03887"
+    },
+    {
       "version": "1.0.0",
       "game_version": ">=1.0.0",
       "date": "2026-08-22",

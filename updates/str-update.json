@@ -1,1 +1,21 @@
-{"schema_version": 1, "versions": [{"version": "1.0.3", "game_version": ">=1.0.0", "date": "2026-08-23", "changelog": "Migrated to the collective France repo. Cross-border demand refreshed with real sourced data.", "download": "https://github.com/pierreggt/subwaybuilder-maps-france/releases/download/str-v1.0.3/strasbourg_v1.0.3.zip", "sha256": "9756342c550ee1149e3812c9c1d429db6011fa80c334ff6bbe1a68e410d25bff"}]}
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "2.0.1",
+      "game_version": ">=1.0.0",
+      "date": "2026-11-17",
+      "changelog": "Pre-publish data-quality sweep: removed demand points more than 600m from the nearest road (and 3 genuinely out-of-bbox points on the Spanish side for Pays Basque).",
+      "download": "https://github.com/pierreggt/subwaybuilder-maps-france/releases/download/str-v2.0.1/strasbourg_v2.0.1.zip",
+      "sha256": "131fabae5e456ce1a097ded377b134fed41bbc4c282c508db19d963e86eef535"
+    },
+    {
+      "version": "1.0.3",
+      "game_version": ">=1.0.0",
+      "date": "2026-08-23",
+      "changelog": "Migrated to the collective France repo. Cross-border demand refreshed with real sourced data.",
+      "download": "https://github.com/pierreggt/subwaybuilder-maps-france/releases/download/str-v1.0.3/strasbourg_v1.0.3.zip",
+      "sha256": "9756342c550ee1149e3812c9c1d429db6011fa80c334ff6bbe1a68e410d25bff"
+    }
+  ]
+}
