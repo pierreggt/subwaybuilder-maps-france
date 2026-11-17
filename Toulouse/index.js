@@ -5,22 +5,22 @@
 
     const t = api.utils.i18n.create({
         en: {
-            description: 'The Pink City takes to the rails. From Toulouse-Blagnac airport to the Capitole and Muret, connect Airbus country with a metro worthy of its aerospace ambitions.',
-            notification: 'Welcome to Toulouse!\n\nIf the map is blank, make sure run_mac-linux.sh (or run_windows.bat) is running from the mod folder. Keep the terminal window open, then restart the game.\n\nPress Ctrl + Shift + R (Cmd + Option + R on Mac) from the main menu to load mods.\n\nPopulation from INSEE Filosofi 2021. Jobs estimated from OSM + INSEE mobility flows.\n\nEnjoy!'
+            description: 'The Pink City takes to the rails, now stretching along the whole SERM commuter-rail network. From Toulouse-Blagnac airport and the Capitole to Montauban, Albi, Carcassonne, Auch and Montrejeau, connect Airbus country with a metro worthy of its aerospace ambitions.',
+            notification: 'Welcome to Toulouse!\n\nIf the map is blank, make sure run_mac-linux.sh (or run_windows.bat) is running from the mod folder. Keep the terminal window open, then restart the game.\n\nPress Ctrl + Shift + R (Cmd + Option + R on Mac) from the main menu to load mods.\n\nPopulation from INSEE Filosofi 2021. Jobs from INSEE SIRENE establishment data, snapped to real buildings. Commuting flows from INSEE mobility data.\n\nEnjoy!'
         },
         fr: {
-            description: 'La Ville Rose se met aux rails. De l\'aeroport Toulouse-Blagnac au Capitole et a Muret, reliez le pays d\'Airbus a un metro digne de ses ambitions aeronautiques.',
-            notification: 'Bienvenue a Toulouse !\n\nSi la carte est vide, verifiez que run_mac-linux.sh (ou run_windows.bat) tourne depuis le dossier du mod. Gardez le terminal ouvert, puis redemarrez le jeu.\n\nUtilisez Ctrl + Shift + R (Cmd + Option + R sur Mac) depuis le menu principal.\n\nPopulation issue de INSEE Filosofi 2021. Emplois estimes depuis OSM + flux INSEE.\n\nBon jeu !'
+            description: 'La Ville Rose se met aux rails, etendue a tout le reseau SERM. De l\'aeroport Toulouse-Blagnac et du Capitole a Montauban, Albi, Carcassonne, Auch et Montrejeau, reliez le pays d\'Airbus a un metro digne de ses ambitions aeronautiques.',
+            notification: 'Bienvenue a Toulouse !\n\nSi la carte est vide, verifiez que run_mac-linux.sh (ou run_windows.bat) tourne depuis le dossier du mod. Gardez le terminal ouvert, puis redemarrez le jeu.\n\nUtilisez Ctrl + Shift + R (Cmd + Option + R sur Mac) depuis le menu principal.\n\nPopulation issue de INSEE Filosofi 2021. Emplois issus des donnees d\'etablissements INSEE SIRENE, rattaches aux vrais batiments. Flux domicile-travail issus des donnees de mobilite INSEE.\n\nBon jeu !'
         }
     });
 
     api.registerCity({
-        name: 'Toulouse',
+        name: 'Toulouse - Occitanie',
         code: 'TLS',
         country: 'FR',
         description: t('description'),
-        population: 554668,
-        initialViewState: { zoom: 11, latitude: 43.6045, longitude: 1.4442, bearing: 0 }
+        population: 1169247,
+        initialViewState: { zoom: 8, latitude: 43.6045, longitude: 1.4442, bearing: 0 }
     });
 
     api.cities.registerTab({ id: 'france-tls', label: 'France', cityCodes: ['TLS'] });

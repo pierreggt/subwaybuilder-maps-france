@@ -1,14 +1,14 @@
 {
     "code": "TLS",
-    "name": "Toulouse",
+    "name": "Toulouse - Occitanie",
     "bbox": [
-        1.26,
-        43.43,
-        1.54,
-        43.7
+        0.45,
+        42.95,
+        2.47,
+        44.11
     ],
-    "description": "Map of the Toulouse metropolitan area, from Toulouse-Blagnac airport to Muret and Colomiers to Balma.",
-    "population": 554668,
+    "description": "Map of the Toulouse metropolitan area and its SERM commuter-rail catchment, from Toulouse-Blagnac airport to Montauban, Albi, Carcassonne, Auch and Montrejeau.",
+    "population": 1169247,
     "initialViewState": {
         "latitude": 43.6045,
         "longitude": 1.4442,
@@ -16,6 +16,6 @@
         "bearing": 0
     },
     "creator": "pierreggt",
-    "version": "1.0.1",
+    "version": "2.0.0",
     "country": "FR"
 }

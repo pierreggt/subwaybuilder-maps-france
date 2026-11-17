@@ -4,3 +4,5 @@ Lyon/*.pmtiles filter=lfs diff=lfs merge=lfs -text
 Lyon/data/**/*.gz filter=lfs diff=lfs merge=lfs -text
 Paris/*.pmtiles filter=lfs diff=lfs merge=lfs -text
 Paris/data/**/*.gz filter=lfs diff=lfs merge=lfs -text
+Toulouse/*.pmtiles filter=lfs diff=lfs merge=lfs -text
+Toulouse/data/**/*.gz filter=lfs diff=lfs merge=lfs -text

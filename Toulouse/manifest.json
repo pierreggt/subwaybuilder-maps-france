@@ -1,8 +1,8 @@
 {
     "id": "com.pierreggt.toulouse",
-    "name": "Toulouse",
-    "description": "Map of the Toulouse metropolitan area, from Toulouse-Blagnac airport to Muret and Balma.",
-    "version": "1.0.0",
+    "name": "Toulouse - Occitanie",
+    "description": "Map of the Toulouse metropolitan area and its SERM commuter-rail catchment, from Toulouse-Blagnac airport to Montauban, Albi, Carcassonne, Auch and Montrejeau.",
+    "version": "2.0.0",
     "author": { "name": "pierreggt" },
     "main": "index.js",
     "dependencies": { "subway-builder": ">=1.0.0" }
