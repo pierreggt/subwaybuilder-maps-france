@@ -8,7 +8,7 @@
         46.27
     ],
     "description": "Map of La Rochelle, France, and the Ile de Re, with the Yelo network, the Centre Hospitalier and the Grand Port Maritime.",
-    "population": 109625,
+    "population": 108102,
     "initialViewState": {
         "latitude": 46.13,
         "longitude": -1.25,
@@ -16,6 +16,6 @@
         "bearing": 0
     },
     "creator": "pierreggt",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "country": "FR"
 }

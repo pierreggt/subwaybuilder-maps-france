@@ -8,7 +8,7 @@
         49.19
     ],
     "description": "Map of the Sillon Lorrain, France, covering Metz and Nancy, with the Le Met'/Mettis and Stan networks.",
-    "population": 341365,
+    "population": 341236,
     "initialViewState": {
         "latitude": 48.9,
         "longitude": 6.17,
@@ -16,6 +16,6 @@
         "bearing": 0
     },
     "creator": "pierreggt",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "country": "FR"
 }

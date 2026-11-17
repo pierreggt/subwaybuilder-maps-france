@@ -8,7 +8,7 @@
         46.58
     ],
     "description": "Map of the cross-border Grand Geneve area (Switzerland/France), with the Leman Express regional rail network, Geneva Airport, CERN and the Annemasse hub.",
-    "population": 1453033,
+    "population": 1437388,
     "initialViewState": {
         "latitude": 46.2044,
         "longitude": 6.1432,
@@ -16,6 +16,6 @@
         "bearing": 0
     },
     "creator": "pierreggt",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "country": "CH"
 }

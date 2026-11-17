@@ -8,7 +8,7 @@
         5.75
     ],
     "description": "Map of French Guiana's developed coastal corridor, from Saint-Laurent-du-Maroni and Kourou (Guiana Space Centre) to Cayenne and its airport.",
-    "population": 83747,
+    "population": 71262,
     "initialViewState": {
         "latitude": 4.9346,
         "longitude": -52.3364,
@@ -16,6 +16,6 @@
         "bearing": 0
     },
     "creator": "pierreggt",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "country": "FR"
 }

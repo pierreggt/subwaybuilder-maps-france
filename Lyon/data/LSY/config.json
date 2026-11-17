@@ -8,7 +8,7 @@
         46.08
     ],
     "description": "Map of Lyon, Grenoble, Saint-Etienne, Valence and Clermont-Ferrand, France, spanning the Rhone valley and the Alpine foothills.",
-    "population": 2719492,
+    "population": 2718153,
     "initialViewState": {
         "latitude": 45.55,
         "longitude": 4.55,
@@ -16,6 +16,6 @@
         "bearing": 0
     },
     "creator": "pierreggt",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "country": "FR"
 }

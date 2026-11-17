@@ -8,7 +8,7 @@
         48.05
     ],
     "description": "Map of the Orleans metropolitan area, with its tramway network, Universite d'Orleans and the CHR d'Orleans.",
-    "population": 173783,
+    "population": 171984,
     "initialViewState": {
         "latitude": 47.9029,
         "longitude": 1.9039,
@@ -16,6 +16,6 @@
         "bearing": 0
     },
     "creator": "pierreggt",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "country": "FR"
 }
