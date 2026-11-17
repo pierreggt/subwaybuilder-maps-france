@@ -2,6 +2,14 @@
   "schema_version": 1,
   "versions": [
     {
+      "version": "2.1.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-11-17",
+      "changelog": "Added Aubagne's SNCF station as a special point.",
+      "download": "https://github.com/pierreggt/subwaybuilder-maps-france/releases/download/mrs-v2.1.0/marseille_v2.1.0.zip",
+      "sha256": "d06a0cdfbec8b47d88f7ae2eaeddb3bbd9eed0c7701cf91c56d9de8d829ddfea"
+    },
+    {
       "version": "2.0.0",
       "game_version": ">=1.0.0",
       "date": "2026-08-22",
