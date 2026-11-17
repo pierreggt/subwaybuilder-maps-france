@@ -5,11 +5,11 @@
 
     const t = api.utils.i18n.create({
         en: {
-            description: 'From the Calanques to the Vieux-Port, Marseille-Provence airport to Aix-en-Provence, and south to the Toulon naval base and Istres: build the transport network this whole sprawling, hilly region has always needed.',
+            description: 'From the Calanques to the Vieux-Port, Marseille-Provence airport to Aix-en-Provence and Aubagne, and south to the Toulon naval base and Istres: build the transport network this whole sprawling, hilly region has always needed.',
             notification: 'Welcome to Marseille - Provence!\n\nIf the map is blank, make sure run_mac-linux.sh (or run_windows.bat) is running from the mod folder. Keep the terminal window open, then restart the game.\n\nPress Ctrl + Shift + R (Cmd + Option + R on Mac) from the main menu to load mods.\n\nPopulation from INSEE Filosofi 2021. Jobs estimated from OSM + INSEE mobility flows.\n\nEnjoy!'
         },
         fr: {
-            description: 'Des Calanques au Vieux-Port, de l\'aeroport Marseille-Provence a Aix-en-Provence, jusqu\'a la base navale de Toulon et Istres : construisez le reseau de transport que toute cette region tentaculaire et vallonnee attend depuis toujours.',
+            description: 'Des Calanques au Vieux-Port, de l\'aeroport Marseille-Provence a Aix-en-Provence et Aubagne, jusqu\'a la base navale de Toulon et Istres : construisez le reseau de transport que toute cette region tentaculaire et vallonnee attend depuis toujours.',
             notification: 'Bienvenue a Marseille - Provence !\n\nSi la carte est vide, verifiez que run_mac-linux.sh (ou run_windows.bat) tourne depuis le dossier du mod. Gardez le terminal ouvert, puis redemarrez le jeu.\n\nUtilisez Ctrl + Shift + R (Cmd + Option + R sur Mac) depuis le menu principal.\n\nPopulation issue de INSEE Filosofi 2021. Emplois estimes depuis OSM + flux INSEE.\n\nBon jeu !'
         }
     });
@@ -19,7 +19,7 @@
         code: 'MRS',
         country: 'FR',
         description: t('description'),
-        population: 1146909,
+        population: 1114679,
         initialViewState: { zoom: 9, latitude: 43.35, longitude: 5.45, bearing: 0 }
     });
 
